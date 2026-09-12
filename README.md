@@ -31,7 +31,7 @@ This application helps a beginner to know software development technologies.its 
 ## ❓ React Concepts & QA
 
 ### i. What is JSX, and why is it used in React?
-**Answer:** JSX (JavaScript XML) is a html syntax which write in JavaScript code. It makes building UI components simpler, more visual, and easier to maintain.
+**Answer:** JSX (JavaScript XML) is a syntax whish best combination of html and JavaScript . It makes building UI components simpler, more visual, and easier to maintain.
 
 ---
 
