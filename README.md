@@ -1,14 +1,13 @@
-# React + TypeScript + Vite
 
 # 🚀 Tech Stack Selector / Builder
 
-A modern, responsive React web application designed to help developers showcase, manage, and build their custom technology stacks easily.
+A modern, responsive React web application which designed for beginner. It is help build their custom technology stacks easily.
 
 ---
 
 ## 📝 Description
 
-This application allows users to explore various software development technologies, add them to a custom stack, manage selected items, and calculate their current stack setup dynamically. It features a responsive layout, seamless dynamic selection toggles, and state persistence for an optimized user experience.
+This application helps a beginner to know software development technologies.its helps them to manage selected items, and calculate their current stack setup dynamically. It features a responsive layout, seamless dynamic selection toggles, and state persistence for an optimized user experience.
 
 ---
 
@@ -18,7 +17,7 @@ This application allows users to explore various software development technologi
 * **Styling:** Tailwind CSS
 * **Icons:** React Icons (`tb`, etc.)
 * **Build Tool:** Vite
-
+* **daisyui
 ---
 
 ## ✨ Key Features
@@ -32,19 +31,19 @@ This application allows users to explore various software development technologi
 ## ❓ React Concepts & QA
 
 ### i. What is JSX, and why is it used in React?
-**Answer:** JSX (JavaScript XML) is a syntax extension for JavaScript that lets us write HTML-like markup inside JavaScript code. It makes building UI components simpler, more visual, and easier to maintain.
+**Answer:** JSX (JavaScript XML) is a html syntax which write in JavaScript code. It makes building UI components simpler, more visual, and easier to maintain.
 
 ---
 
 ### ii. What is the difference between props and state?
 **Answer:**
-* **Props (Properties):** Read-only data passed down from a parent component to a child component.
-* **State:** Internal data managed within a component that can change over time based on user interactions.
+* **Props (Properties):** data passed from parent component to a child component.
+* **State:**  state use for change internal data in component based on user interactions .
 
 ---
 
 ### iii. What does the `useState` hook do, and where did you use it in this project?
-**Answer:** `useState` allows functional components to store and manage dynamic state data. In this project, I used it to store selected technologies (`Techselected`), track navigation UI state (`buttonType`), and manage the mobile menu toggle (`isMobileMenuOpen`).
+**Answer:** `useState` use for store and manage dynamic state data. In this project, I used it to store selected technologies (`Techselected`), track navigation UI state (`buttonType`).
 
 ---
 
@@ -54,7 +53,7 @@ This application allows users to explore various software development technologi
 ---
 
 ### v. Why does every item in a `.map()` list need a unique `key` prop?
-**Answer:** A unique `key` helps React identify which items have changed, been added, or removed. This allows React to efficiently update only the changed DOM elements instead of re-rendering the entire list.
+**Answer:** A unique `key` use for accurately changed data, added data, or removed data. 
 
 ---
 
@@ -68,3 +67,7 @@ This application allows users to explore various software development technologi
 **Answer:**
 * **Parent to Child:** Data is passed down using **props**.
 * **Child to Parent:** The parent passes a callback function down via props, and the child calls that function with data as an argument to update the parent's state.
+
+---
+                                                       ` DEVELOPED BY SHOYAYEB `
+---
